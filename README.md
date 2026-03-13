@@ -51,7 +51,7 @@ python pset2.py
 ```
 pset2/
 ├── pset2.py            # código principal
-├── pset2.pdf           # documento LaTeX com os resultados
+├── pset2_comp.pdf           # documento LaTeX com os resultados
 ├── requirements.txt    # dependências
 └── output/             # figuras geradas automaticamente
 ```
